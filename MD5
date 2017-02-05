@@ -1,0 +1,9 @@
+06bd3091023e3512c62ed3014df2a4a0 *DESCRIPTION
+e2c68584a5e7d0298be79e3cce120411 *NAMESPACE
+c0187e8679040a2a87c5b0233b1e081f *R/mbrglm.R
+22b85ff2e9adb581b7ad09fe4dc27dec *R/mbrglm.control.R
+59180d5d0741b5a27bc06f2f74d48a90 *data/endo.rda
+94f741fd255d0b8a8f9bb36dcc54bad1 *man/endo.Rd
+82c480e55967b175c100601ce9d6f4b1 *man/mbrglm.Rd
+afe6a6715a098e9546d2933e9abb651e *man/mbrglm.control.Rd
+fd4beb22e547d5c16cc3428f4b7e459d *src/mod.c
